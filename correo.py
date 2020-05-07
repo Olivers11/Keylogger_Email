@@ -55,4 +55,4 @@ sesion.sendmail('correo_remitente', 'correo_destinatario', texto)
 
 #Cerramos la conexion
 sesion.quit()
-os.system('limpiar_archivo.cpp')
+os.system('limpiar_archivo.exe')
